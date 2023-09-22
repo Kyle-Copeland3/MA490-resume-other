@@ -1,0 +1,4 @@
+*.aux
+*.fb.LaTeX*.fls
+*.log
+*.synctex.gz
